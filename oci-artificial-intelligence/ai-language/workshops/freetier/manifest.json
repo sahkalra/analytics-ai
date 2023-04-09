@@ -18,6 +18,11 @@
             "filename": "../../pre-trained/pre-trained.md"
         },
         {
+            "title": "Lab 2: Provision your Oracle Analytics(OAC) instance",
+            "description": "Learn how to create a custom model using the oci console",
+            "filename": "../../provision-oac/provision-oac.md"
+        },
+        {
             "title": "Lab 2: Create and train custom models",
             "description": "Learn how to create a custom model using the oci console",
             "filename": "../../custom-model/custom-model.md"
